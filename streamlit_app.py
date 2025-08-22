@@ -6,7 +6,7 @@ from googleapiclient.discovery import build
 # 여기에 발급받은 API 키를 넣어주세요.
 # Streamlit의 Secrets 기능을 사용하여 API 키를 숨길 수 있습니다.
 # st.secrets['YOUTUBE_API_KEY']
-YOUTUBE_API_KEY = "YOUR_API_KEY"
+YOUTUBE_API_KEY = "AIzaSyBw_WLyGo_uUrF5w-DWtr1pOLfLM7oS0bk"
 CHANNEL_ID = "UC3W19wZg_f22j-3c9x1W8wA"  # HYBE LABELS 채널 ID
 SEARCH_QUERY = "Official MV"
 EXCLUDE_QUERY = "test"
